@@ -19,3 +19,6 @@ env/
 
 # Outputs
 *.log
+
+# Notebook generator helper (not part of deliverable)
+**/build_nb.py
