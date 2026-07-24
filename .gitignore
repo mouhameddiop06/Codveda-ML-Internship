@@ -22,3 +22,7 @@ env/
 
 # Notebook generator helper (not part of deliverable)
 **/build_nb.py
+
+# Jupyter / Anaconda scratch folders
+**/anaconda_projects/
+.ipynb_checkpoints/

@@ -37,7 +37,8 @@ Codveda-ML-Internship/
 | Level | Task | Project | Dataset | Status |
 |-------|------|---------|---------|--------|
 | 1 — Basic | 1 | Data Preprocessing for ML | churn | ✅ Complete |
-| 1 — Basic | 2 | Simple Linear Regression | house_prediction | ⬜ In progress |
+| 1 — Basic | 2 | Simple Linear Regression | house_prediction | ✅ Complete |
+| 1 — Basic | 3 | K-Nearest Neighbors (KNN) | iris | ✅ Complete |
 | 2 — Intermediate | 1 | Logistic Regression (binary) | churn | ⬜ In progress |
 | 2 — Intermediate | 2 | Decision Trees | iris | ⬜ In progress |
 | 3 — Advanced | 1 | Random Forest Classifier | churn | ⬜ In progress |
