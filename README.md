@@ -42,8 +42,9 @@ Codveda-ML-Internship/
 | 2 — Intermediate | 1 | Logistic Regression (binary) | churn | ✅ Complete |
 | 2 — Intermediate | 2 | Decision Trees | iris | ✅ Complete |
 | 2 — Intermediate | 3 | K-Means Clustering | churn | ✅ Complete |
-| 3 — Advanced | 1 | Random Forest Classifier | churn | ⬜ In progress |
-| 3 — Advanced | 2 | Support Vector Machine (SVM) | iris | ⬜ In progress |
+| 3 — Advanced | 1 | Random Forest Classifier | churn | ✅ Complete |
+| 3 — Advanced | 2 | Support Vector Machine (SVM) | iris | ✅ Complete |
+| 3 — Advanced | 3 | Neural Network (TensorFlow/Keras) | digits | ✅ Complete |
 
 > Update the **Status** column to ✅ as each task is completed. Each task folder has its
 > own README describing the objectives, approach, and results.
